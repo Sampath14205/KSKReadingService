@@ -6,7 +6,7 @@ spring:
 whatsapp:
   webhook:
     verify-token: ${WHATSAPP_VERIFY_TOKEN:KSKReadingService_2027}
-    app-secret: ${WHATSAPP_APP_SECRET:057bea35bc32f7418735a63b2a37f91e}
+    app-secret: ${WHATSAPP_APP_SECRET:636fe3003d8983e209041a89ff023459}
 management:
   endpoints:
     web:
